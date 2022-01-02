@@ -1,6 +1,7 @@
 ### Hello, I'm Xuan Vu! 👋
 
-- 🌱 I’m currently learning Python, JavaScript
+- 🌱 I’m currently learning Python, JavaScript ...
+- 📫 How to reach me: [Facebook - @xuanvu](https://www.facebook.com/xuanvu.nguyenvan/) 
 <!--
 **nguyenvanxuanvu/nguyenvanxuanvu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
