@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python, JavaScript ...
 - 📫 How to reach me: [Facebook - @xuanvu](https://www.facebook.com/xuanvu.nguyenvan/) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenvanxuanvu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;      ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nguyenvanxuanvu&show_icons=true&theme=merko)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenvanxuanvu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)    &nbsp; &nbsp; &nbsp; &nbsp;      ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nguyenvanxuanvu&show_icons=true&theme=merko)
 
 <!--
 **nguyenvanxuanvu/nguyenvanxuanvu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
